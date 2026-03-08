@@ -20,9 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 This project demonstrates a simple bottom navigation bar built using Flutter.
 
-## Output
-
-![Home Screen](outpot_screenshot/Screenshot.png)
-
-# flutter_day1_task
-2806f8be0c44f375f805c21cd596700b359940f1
+![WhatsApp Image 2026-03-07 at 1 08 28 AM](https://github.com/user-attachments/assets/c83ea139-5780-43fc-b5c0-29ac43c7114d)
